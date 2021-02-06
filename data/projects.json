@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "public": {
+      "webapp": {
+        "name": "SolidJobs Panel",
+        "description": "",
+        "repository-http": "https://github.com/solidjobs/webapp.git",
+        "repository-ssh": "git@github.com:solidjobs/webapp.git",
+        "public": true
+      }
+    },
+    "private": {
+
+    }
+  }
+}
